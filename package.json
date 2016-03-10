@@ -1,7 +1,5 @@
 {
 	"name": "in-app-purchase",
-	"description": "In-App-Purchase validation for iOS, Android, Amazon, and Windows",
-
 	"author": {
 		"name": "Nobuyori Takahashi",
 		"email": "voltrue2@yahoo.com"
@@ -21,18 +19,5 @@
 	},
 	"engine": "node >= 0.10.20",
 	"contributors": [],
-	"keywords": [
-		"Apple",
-		"iOS",
-		"Android",
-		"Windows",
-		"Amazon",
-		"Purchase",
-		"App",
-		"in-app-purchase",
-		"in-app-billing",
-		"Validation",
-		"IAP"
-	],
 	"license": "MIT"
 }
